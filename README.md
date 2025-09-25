@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ### Hey there, I'm Priyank! 👋<br><br>**🚀 Turning Code, Data & Creativity into Intelligent Experiences with AI/ML.**<br>
 
 
