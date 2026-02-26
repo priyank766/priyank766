@@ -1,5 +1,6 @@
 
-### Hey there, I'm Priyank! 👋<br><br>**🚀 Turning Code, Data & Creativity into Intelligent Experiences with AI/ML.**<br>
+### Hey there, I'm Priyank! 
+## **Turning Code, Data & Creativity into Intelligent Experiences with AI/ML.**
 
 
 ## 🌐 Socials:
