@@ -59,11 +59,11 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Igd/giphy.gif" width="25"> &nbsp;STATS
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Igd/giphy.gif" width="25"> &nbsp;STATS 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=priyank766&hide_border=true&background=0D1117&ring=00FFE0&fire=FF2E97&currStreakLabel=FF2E97&sideLabels=00FFE0&currStreakNum=00FFE0&sideNums=FF2E97&dates=555555&stroke=1a1a2e" height="180" />
 
-<br/><br/>
+<br/> <br/>
 
 <br/><br/>
 
