@@ -1,12 +1,76 @@
-### Hey there, I'm Priyank! 
-## **Turning Code, Data & Creativity into Intelligent Experiences with AI/ML.**
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0F0F1A,100:000000&height=1&section=header" width="100%" />
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://priyank.is-a.dev/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyank-patel-01469028b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/priyank_766) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyank8445@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=4000&pause=500&color=00FFE0&center=true&vCenter=true&random=false&width=600&height=70&lines=P+R+I+Y+A+N+K" alt="name" />
 
----
-[![](https://visitcount.itsvg.in/api?id=priyank766&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&random=false&width=500&lines=%E2%96%B8+building+agents+that+think+%26+act;%E2%96%B8+ai+is+not+the+way+to+agi;%E2%96%B8+shipping+from+ahmedabad+%F0%9F%87%AE%F0%9F%87%B3" alt="tagline" />
+
+<br/>
+
+<a href="https://priyank.is-a.dev/">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=00FFE0" />
+</a>
+<a href="https://www.linkedin.com/in/priyank766">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFE0" />
+</a>
+<a href="https://x.com/priyank_766">
+<img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=FF2E97" />
+</a>
+<a href="mailto:priyank8445@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=FF2E97" />
+</a>
+
+</div>
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│  ▸ ROLE       ML Engineer & Agent Builder                                │
+│  ▸ BASE       Ahmedabad, India                                           │
+│  ▸ FOCUS      AI agents that take action, not just generate text         │
+│                                                                          │
+│  ▸ PROJECTS                                                              │
+│    ├── BioAgent-ALPHAFOLD  ░  protein structures & molecular docking     │
+│    ├── FrontFrEND          ░  frontend analysis, auto-opens PRs          │
+│    ├── Cortex              ░  agent workspace inside your project        │
+│    └── DFD-Research        ░  deepfake detection, adversarial training   │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<p align="right"><a href="https://github.com/priyank766?tab=repositories">see all repos →</a></p>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Stack
+
+<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,flask,react,tensorflow,mongodb,mysql,gcp,docker,git&theme=dark&perline=11" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Igd/giphy.gif" width="25"> &nbsp;STATS
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=priyank766&hide_border=true&background=0D1117&ring=00FFE0&fire=FF2E97&currStreakLabel=FF2E97&sideLabels=00FFE0&currStreakNum=00FFE0&sideNums=FF2E97&dates=555555&stroke=1a1a2e" height="180" />
+
+<br/><br/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/priyank766/priyank766/output/github-snake-dark.svg" width="95%" alt="contribution snake" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0F0F1A,100:000000&height=1&section=footer" width="100%" />
+
+</div>
