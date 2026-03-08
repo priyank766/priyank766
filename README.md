@@ -66,11 +66,3 @@
 <br/> <br/>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/priyank766/priyank766/output/github-snake-dark.svg" width="95%" alt="contribution snake" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0F0F1A,100:000000&height=1&section=footer" width="100%" />
-
-</div>
