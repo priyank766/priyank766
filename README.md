@@ -110,7 +110,7 @@ Deepfake detection with adversarial training. Research-grade models for identify
 </table>
 </div>
 
-<p align="center"><a href="https://github.com/priyank766?tab=repositories"><img src="https://img.shields.io/badge/▸_VIEW_ALL_REPOS-0D1117?style=for-the-badge&logoColor=00FFE0" /></a></p>
+<p align="center"><a href="https://github.com/priyank766?tab=repositories"><img src="https://img.shields.io/badge/▸_VIEW_ALL_REPOS-0D1117?style=for-the-badge&logo=github&logoColor=00FFE0" /></a></p>
 
 <br/>
 
