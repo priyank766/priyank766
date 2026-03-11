@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0F0F1A,100:000000&height=1&section=header" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=4000&pause=500&color=00FFE0&center=true&vCenter=true&random=false&width=600&height=70&lines=P+R+I+Y+A+N+K" alt="name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&random=false&width=500&lines=%E2%96%B8+building+agents+that+think+%26+act;%E2%96%B8+ai+is+not+the+way+to+agi;%E2%96%B8+shipping+from+ahmedabad+%F0%9F%87%AE%F0%9F%87%B3" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&random=false&width=500&lines=%E2%96%B8+building+agents+that+think+%26+act;%E2%96%B8+ai+is+not+the+way+to+agi;%E2%96%B8+shipping+from+Ahmedabad" alt="tagline" />
 
 <br/>
 
