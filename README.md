@@ -31,7 +31,7 @@
 │    ├── BioAgent-ALPHAFOLD  ░  protein structures & molecular docking                  │
 │    ├── FrontFrEND          ░  frontend analysis, auto-opens PRs                       │
 │    ├── Cortex              ░  agent workspace inside your project                     │
-│    └── RLM                 ░  recursive long-context reasoning vs vanilla LLMs         │
+│    └── RLM                 ░  recursive long-context reasoning vs vanilla LLMs        │
 │                                                                                       │
 └───────────────────────────────────────────────────────────────────────────────────────┘
 ```
