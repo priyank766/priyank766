@@ -29,8 +29,7 @@
 │  ▸ FOCUS      AI agents that take action, not just generate text                      │
 │  ▸ PROJECTS                                                                           │
 │    ├── BioAgent-ALPHAFOLD  ░  protein structures & molecular docking                  │
-│    ├── FrontFrEND          ░  frontend analysis, auto-opens PRs                       │
-│    ├── Cortex              ░  agent workspace inside your project                     │
+│    ├── CADai               ░  3d Action-Driven AI Agent for CAD                       │
 │    └── RLM                 ░  recursive long-context reasoning vs vanilla LLMs        │
 │                                                                                       │
 └───────────────────────────────────────────────────────────────────────────────────────┘
