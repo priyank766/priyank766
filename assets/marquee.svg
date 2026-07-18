@@ -1,0 +1,25 @@
+<svg width="880" height="64" viewBox="0 0 880 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.1" stop-color="#fff"/>
+      <stop offset="0.9" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edges"><rect width="880" height="64" fill="url(#fade)"/></mask>
+    <clipPath id="strip"><rect width="880" height="64"/></clipPath>
+  </defs>
+
+  <rect width="880" height="64" fill="#0c0c0e"/>
+  <rect x="0" y="0" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
+  <rect x="0" y="63" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
+
+  <g clip-path="url(#strip)" mask="url(#edges)">
+    <!-- textLength pins the glyph run to exactly 1760px (two 880px periods) on every
+         platform, so the 0 → -880 loop is seamless regardless of font metrics -->
+    <text y="41" x="0" textLength="1760" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="-0.3">
+      <tspan fill="#f5f1ea" fill-opacity="0.62">agentic systems</tspan><tspan fill="#c4623a" font-style="italic"> · memory infra · </tspan><tspan fill="#f5f1ea" fill-opacity="0.62">context graphs</tspan><tspan fill="#c4623a" font-style="italic"> · MCP · </tspan><tspan fill="#f5f1ea" fill-opacity="0.62">agentic systems</tspan><tspan fill="#c4623a" font-style="italic"> · memory infra · </tspan><tspan fill="#f5f1ea" fill-opacity="0.62">context graphs</tspan><tspan fill="#c4623a" font-style="italic"> · MCP · </tspan>
+      <animateTransform attributeName="transform" type="translate" values="0 0; -880 0" dur="24s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

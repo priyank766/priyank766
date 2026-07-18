@@ -1,0 +1,69 @@
+<svg width="880" height="360" viewBox="0 0 880 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(0 0)">
+  <rect width="880" height="120" fill="#0c0c0e"/>
+  <rect x="0" y="0" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
+
+  <text x="48" y="52" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#f5f1ea" fill-opacity="0.4">01</text>
+
+  <text x="110" y="56" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f5f1ea" letter-spacing="-0.5">anchor<tspan font-style="italic" fill="#c4623a" font-size="22">&#160;— memory for every agent</tspan></text>
+
+  <rect x="110" y="66" height="1.5" fill="#c4623a" width="0">
+    <animate attributeName="width" values="0;96" dur="1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+
+  <text x="110" y="92" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="14" fill="#f5f1ea" fill-opacity="0.62">Local-first cross-agent memory MCP server. Live on npm.</text>
+  <text x="110" y="92" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1" fill="#c4623a"><tspan x="500">ANCHORMEM.ME&#160;&#160;↗</tspan></text>
+
+  <g font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1">
+    <rect x="668" y="36" width="104" height="24" rx="12" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
+    <text x="682" y="52" fill="#f5f1ea" fill-opacity="0.62">TYPESCRIPT</text>
+    <rect x="780" y="36" width="52" height="24" rx="12" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
+    <text x="794" y="52" fill="#f5f1ea" fill-opacity="0.62">MCP</text>
+  </g>
+</g>
+<g transform="translate(0 120)">
+  <rect width="880" height="120" fill="#0c0c0e"/>
+  <rect x="0" y="0" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
+
+  <text x="48" y="52" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#f5f1ea" fill-opacity="0.4">02</text>
+
+  <text x="110" y="56" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f5f1ea" letter-spacing="-0.5">Hermes-BIO<tspan font-style="italic" fill="#c4623a" font-size="22">&#160;— drug discovery, agentic</tspan></text>
+
+  <rect x="110" y="66" height="1.5" fill="#c4623a" width="0">
+    <animate attributeName="width" values="0;160" dur="1s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+
+  <text x="110" y="92" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="14" fill="#f5f1ea" fill-opacity="0.62">Disease name in, ranked candidates out — UniProt, OpenTargets, AlphaFold, ChEMBL.</text>
+  <text x="110" y="92" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1" fill="#c4623a"><tspan x="700">GITHUB&#160;&#160;↗</tspan></text>
+
+  <g font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1">
+    <rect x="650" y="36" width="78" height="24" rx="12" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
+    <text x="664" y="52" fill="#f5f1ea" fill-opacity="0.62">PYTHON</text>
+    <rect x="740" y="36" width="92" height="24" rx="12" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
+    <text x="754" y="52" fill="#f5f1ea" fill-opacity="0.62">UI·CLI·MCP</text>
+  </g>
+</g>
+<g transform="translate(0 240)">
+  <rect width="880" height="120" fill="#0c0c0e"/>
+  <rect x="0" y="0" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
+  <rect x="0" y="119" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
+
+  <text x="48" y="52" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#f5f1ea" fill-opacity="0.4">03</text>
+
+  <text x="110" y="56" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f5f1ea" letter-spacing="-0.5">RLM<tspan font-style="italic" fill="#c4623a" font-size="22">&#160;— long context, recursively</tspan></text>
+
+  <rect x="110" y="66" height="1.5" fill="#c4623a" width="0">
+    <animate attributeName="width" values="0;58" dur="1s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+
+  <text x="110" y="92" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="14" fill="#f5f1ea" fill-opacity="0.62">Recursive LMs vs vanilla inference — reproducible benchmarks, 6 GB GPU.</text>
+  <text x="110" y="92" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1" fill="#c4623a"><tspan x="700">BLOG&#160;&#160;↗</tspan></text>
+
+  <g font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1">
+    <rect x="656" y="36" width="78" height="24" rx="12" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
+    <text x="670" y="52" fill="#f5f1ea" fill-opacity="0.62">PYTHON</text>
+    <rect x="746" y="36" width="70" height="24" rx="12" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
+    <text x="760" y="52" fill="#f5f1ea" fill-opacity="0.62">QLORA</text>
+  </g>
+</g>
+</svg>
