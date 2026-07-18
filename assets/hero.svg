@@ -1,52 +1,36 @@
-<svg width="880" height="352" viewBox="0 0 880 352" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="frame"><rect width="880" height="352" rx="4"/></clipPath>
-  </defs>
-
-  <rect width="880" height="352" rx="4" fill="#0c0c0e"/>
-  <rect x="0.5" y="0.5" width="879" height="351" rx="3.5" stroke="#f5f1ea" stroke-opacity="0.12"/>
-
+<svg width="880" height="252" viewBox="0 0 880 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><clipPath id="frame"><rect width="880" height="252" rx="4"/></clipPath></defs>
+  <rect width="880" height="252" rx="4" fill="#0c0c0e"/>
+  <rect x="0.5" y="0.5" width="879" height="251" rx="3.5" stroke="#f5f1ea" stroke-opacity="0.12"/>
   <g clip-path="url(#frame)">
     <g stroke="#f5f1ea" stroke-opacity="0.045" stroke-width="1">
-      <path d="M0 88.5H880M0 176.5H880M0 264.5H880"/>
-      <path d="M176.5 0V352M352.5 0V352M528.5 0V352M704.5 0V352"/>
+      <path d="M0 63.5H880M0 126.5H880M0 189.5H880"/>
+      <path d="M176.5 0V252M352.5 0V252M528.5 0V252M704.5 0V252"/>
     </g>
-
-    <rect x="48" y="55" width="28" height="1" fill="#c4623a"/>
-    <text x="88" y="60" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="11" letter-spacing="2.2" fill="#c4623a">AI ENGINEER</text>
-
-    <circle cx="702" cy="56" r="4" fill="#6cff8e">
+    <rect x="48" y="39" width="28" height="1" fill="#c4623a"/>
+    <text x="88" y="44" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="2.2" fill="#c4623a">AI ENGINEER</text>
+    <circle cx="702" cy="40" r="4" fill="#6cff8e">
       <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="714" y="60" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.4" fill="#f5f1ea" fill-opacity="0.62">AHMEDABAD, IN</text>
-
+    <text x="714" y="44" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.4" fill="#f5f1ea" fill-opacity="0.62">AHMEDABAD, IN</text>
     <g>
-      <text x="46" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#f5f1ea" letter-spacing="-1">Building agents
+      <text x="47" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#f5f1ea" letter-spacing="-0.8">Building agents<tspan font-style="italic" fill="#c4623a">&#160;that think &amp; act.</tspan>
         <animate attributeName="opacity" values="0;1" dur="0.9s" fill="freeze"/>
       </text>
-      <animateTransform attributeName="transform" type="translate" values="0 24; 0 0" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      <animateTransform attributeName="transform" type="translate" values="0 18; 0 0" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
     </g>
-    <g opacity="0">
-      <text x="46" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" fill="#c4623a" letter-spacing="-1">that think &amp; act.</text>
-      <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.25s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="0 24; 0 0" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
-    </g>
-
-    <!-- description lives inside the panel now -->
-    <text x="48" y="242" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="15" fill="#f5f1ea" fill-opacity="0.62">AI Engineer at SaarthiOS — enterprise context graphs and document-intelligence pipelines.</text>
-    <text x="48" y="266" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="15" fill="#f5f1ea" fill-opacity="0.62">I ship agentic systems that act on real data: memory infra, MCP servers, research harnesses.</text>
-
+    <text x="48" y="146" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="14.5" fill="#f5f1ea" fill-opacity="0.62">AI Engineer at SaarthiOS — enterprise context graphs and document-intelligence pipelines.</text>
+    <text x="48" y="168" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="14.5" fill="#f5f1ea" fill-opacity="0.62">I ship agentic systems that act on real data: memory infra, MCP servers, research harnesses.</text>
     <g font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="0.5">
-      <text x="48" y="316"><tspan fill="#c4623a">now</tspan><tspan fill="#f5f1ea" fill-opacity="0.62">&#160;&#160;→&#160;&#160;</tspan><tspan fill="#f5f1ea">SaarthiOS</tspan><tspan fill="#f5f1ea" fill-opacity="0.62">&#160;&#160;&#160;&#160;</tspan><tspan fill="#c4623a">ships</tspan><tspan fill="#f5f1ea" fill-opacity="0.62">&#160;&#160;→&#160;&#160;</tspan><tspan fill="#f5f1ea">anchor · anchormem.me</tspan></text>
+      <text x="48" y="216"><tspan fill="#c4623a">now</tspan><tspan fill="#f5f1ea" fill-opacity="0.62">&#160;&#160;→&#160;&#160;</tspan><tspan fill="#f5f1ea">SaarthiOS</tspan><tspan fill="#f5f1ea" fill-opacity="0.62">&#160;&#160;&#160;&#160;</tspan><tspan fill="#c4623a">ships</tspan><tspan fill="#f5f1ea" fill-opacity="0.62">&#160;&#160;→&#160;&#160;</tspan><tspan fill="#f5f1ea">anchor · anchormem.me</tspan></text>
     </g>
-
     <g font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.6">
-      <text x="640" y="316" fill="#f5f1ea" fill-opacity="0.62">FOCUS /</text>
+      <text x="640" y="216" fill="#f5f1ea" fill-opacity="0.62">FOCUS /</text>
       <g>
-        <text x="712" y="316" fill="#c4623a">AGENTS<animate attributeName="opacity" values="1;1;0;0;0;0;0;0" dur="12s" repeatCount="indefinite"/></text>
-        <text x="712" y="316" fill="#c4623a" opacity="0">MEMORY<animate attributeName="opacity" values="0;0;1;1;0;0;0;0" dur="12s" repeatCount="indefinite"/></text>
-        <text x="712" y="316" fill="#c4623a" opacity="0">CONTEXT<animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="12s" repeatCount="indefinite"/></text>
-        <text x="712" y="316" fill="#c4623a" opacity="0">MCP<animate attributeName="opacity" values="0;0;0;0;0;0;1;1" dur="12s" repeatCount="indefinite"/></text>
+        <text x="712" y="216" fill="#c4623a">AGENTS<animate attributeName="opacity" values="1;1;0;0;0;0;0;0" dur="12s" repeatCount="indefinite"/></text>
+        <text x="712" y="216" fill="#c4623a" opacity="0">MEMORY<animate attributeName="opacity" values="0;0;1;1;0;0;0;0" dur="12s" repeatCount="indefinite"/></text>
+        <text x="712" y="216" fill="#c4623a" opacity="0">CONTEXT<animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="12s" repeatCount="indefinite"/></text>
+        <text x="712" y="216" fill="#c4623a" opacity="0">MCP<animate attributeName="opacity" values="0;0;0;0;0;0;1;1" dur="12s" repeatCount="indefinite"/></text>
       </g>
     </g>
   </g>

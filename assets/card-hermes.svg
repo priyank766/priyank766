@@ -1,23 +1,18 @@
-<svg width="880" height="120" viewBox="0 0 880 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="880" height="120" fill="#0c0c0e"/>
+<svg width="880" height="88" viewBox="0 0 880 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="88" fill="#0c0c0e"/>
   <rect x="0" y="0" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
-  <rect x="0" y="119" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
-
-  <text x="48" y="52" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#f5f1ea" fill-opacity="0.4">02</text>
-
-  <text x="110" y="56" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f5f1ea" letter-spacing="-0.5">Hermes-BIO<tspan font-style="italic" fill="#c4623a" font-size="22">&#160;— drug discovery, agentic</tspan></text>
-
-  <rect x="110" y="66" height="1.5" fill="#c4623a" width="0">
-    <animate attributeName="width" values="0;160" dur="1s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  <rect x="0" y="87" width="880" height="1" fill="#f5f1ea" fill-opacity="0.12"/>
+  <text x="48" y="41" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#f5f1ea" fill-opacity="0.4">02</text>
+  <text x="104" y="44" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f5f1ea" letter-spacing="-0.4">Hermes-BIO<tspan font-style="italic" fill="#c4623a" font-size="19">&#160;— drug discovery, agentic</tspan></text>
+  <rect x="104" y="53" height="1.5" fill="#c4623a" width="0">
+    <animate attributeName="width" values="0;134" dur="1s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
   </rect>
-
-  <text x="110" y="92" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="14" fill="#f5f1ea" fill-opacity="0.62">Disease name in, ranked candidates out — UniProt, OpenTargets, AlphaFold, ChEMBL.</text>
-  <text y="92" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1" fill="#c4623a"><tspan x="832" text-anchor="end">GITHUB&#160;&#160;↗</tspan></text>
-
+  <text x="104" y="73" font-family="'Segoe UI', -apple-system, Helvetica, sans-serif" font-size="13.5" fill="#f5f1ea" fill-opacity="0.62">Disease name in, ranked candidates out — UniProt, OpenTargets, AlphaFold, ChEMBL.</text>
+  <text y="73" font-family="ui-monospace, Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#c4623a"><tspan x="832" text-anchor="end">GITHUB&#160;&#160;↗</tspan></text>
   <g font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1">
-    <rect x="650" y="36" width="78" height="24" rx="12" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
-    <text x="664" y="52" fill="#f5f1ea" fill-opacity="0.62">PYTHON</text>
-    <rect x="740" y="36" width="92" height="24" rx="12" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
-    <text x="754" y="52" fill="#f5f1ea" fill-opacity="0.62">UI·CLI·MCP</text>
+    <rect x="652" y="24" width="76" height="22" rx="11" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
+    <text x="665" y="39" fill="#f5f1ea" fill-opacity="0.62">PYTHON</text>
+    <rect x="742" y="24" width="90" height="22" rx="11" stroke="#f5f1ea" stroke-opacity="0.25" fill="none"/>
+    <text x="755" y="39" fill="#f5f1ea" fill-opacity="0.62">UI·CLI·MCP</text>
   </g>
 </svg>
