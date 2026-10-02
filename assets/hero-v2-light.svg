@@ -1,0 +1,83 @@
+<svg width="880" height="270" viewBox="0 0 880 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="270" rx="6" fill="#f4f3ef"/>
+  <rect x=".5" y=".5" width="879" height="269" rx="5.5" stroke="#dcd9d1"/>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".9s" begin="0s" fill="freeze"/>
+    <rect x="48" y="49" width="22" height="1.5" fill="#ff5a3c"/>
+    <text x="80" y="54" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13"><tspan fill="#ff5a3c">AI product engineer</tspan><tspan fill="#6b6862"> · Ahmedabad, India</tspan></text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".9s" begin="0.15s" fill="freeze"/>
+    <text x="45" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="-1.6" fill="#141412">Priyank Patel</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".9s" begin="0.35s" fill="freeze"/>
+    <text x="48" y="156" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#141412">I build AI agents that people rely on at work,</text>
+    <text x="48" y="181" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#141412">and I deploy them myself.</text>
+  </g>
+  <g opacity="0" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="11.5"><animate attributeName="opacity" values="0;1" dur=".9s" begin="0.55s" fill="freeze"/>
+    <path d="M48 206.5H500" stroke="#dcd9d1"/>
+    <text x="48" y="230"><tspan fill="#ff5a3c">work</tspan><tspan fill="#3f3d38">  SaarthiOS · Right Hand, live with three clients</tspan></text>
+    <text x="48" y="250"><tspan fill="#ff5a3c">oss </tspan><tspan fill="#3f3d38">  Code Reviewer, Kubeflow MCP server (CNCF)</tspan></text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".9s" begin="0.3s" fill="freeze"/>
+    <path d="M731.6 220.1L671.8 206.6" stroke="#ff5a3c" stroke-width="1.4"/>
+    <path d="M731.6 220.1L696.6 235.6" stroke="#ff5a3c" stroke-width="1.4"/>
+    <path d="M731.6 220.1L767.5 236.0" stroke="#ff5a3c" stroke-width="1.4"/>
+    <path d="M731.6 220.1L695.3 101.2" stroke="#ff5a3c" stroke-width="1.4"/>
+    <path d="M636.8 55.9L615.4 118.6" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M636.8 55.9L722.1 40.0" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M636.8 55.9L695.3 101.2" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M636.8 55.9L674.2 69.0" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M749.0 65.1L722.1 40.0" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M749.0 65.1L695.3 101.2" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M576.1 122.1L615.4 118.6" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M576.1 122.1L560.0 153.9" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M614.3 155.4L671.8 206.6" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M614.3 155.4L615.4 118.6" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M614.3 155.4L613.5 189.5" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M614.3 155.4L695.3 101.2" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M614.3 155.4L654.8 175.6" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M721.7 127.6L751.0 151.1" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M721.7 127.6L695.3 101.2" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M743.5 99.2L780.0 86.5" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M743.5 99.2L695.3 101.2" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M692.2 165.4L671.8 206.6" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M692.2 165.4L658.8 141.1" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M692.2 165.4L695.3 101.2" stroke="#b3afa5" stroke-width="1"/>
+    <path d="M692.2 165.4L654.8 175.6" stroke="#b3afa5" stroke-width="1"/>
+    <circle r="1.8" fill="#ff5a3c" opacity="0"><animate attributeName="cx" values="671.8;731.6" dur="3.2s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="cy" values="206.6;220.1" dur="3.2s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.8;1" dur="3.2s" begin="0.00s" repeatCount="indefinite"/></circle>
+    <circle r="1.8" fill="#ff5a3c" opacity="0"><animate attributeName="cx" values="695.3;636.8" dur="3.2s" begin="0.55s" repeatCount="indefinite"/><animate attributeName="cy" values="101.2;55.9" dur="3.2s" begin="0.55s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.8;1" dur="3.2s" begin="0.55s" repeatCount="indefinite"/></circle>
+    <circle r="1.8" fill="#ff5a3c" opacity="0"><animate attributeName="cx" values="615.4;576.1" dur="3.2s" begin="1.10s" repeatCount="indefinite"/><animate attributeName="cy" values="118.6;122.1" dur="3.2s" begin="1.10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.8;1" dur="3.2s" begin="1.10s" repeatCount="indefinite"/></circle>
+    <circle r="1.8" fill="#ff5a3c" opacity="0"><animate attributeName="cx" values="613.5;614.3" dur="3.2s" begin="1.65s" repeatCount="indefinite"/><animate attributeName="cy" values="189.5;155.4" dur="3.2s" begin="1.65s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.8;1" dur="3.2s" begin="1.65s" repeatCount="indefinite"/></circle>
+    <circle r="1.8" fill="#ff5a3c" opacity="0"><animate attributeName="cx" values="751.0;721.7" dur="3.2s" begin="2.20s" repeatCount="indefinite"/><animate attributeName="cy" values="151.1;127.6" dur="3.2s" begin="2.20s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.8;1" dur="3.2s" begin="2.20s" repeatCount="indefinite"/></circle>
+    <circle r="1.8" fill="#ff5a3c" opacity="0"><animate attributeName="cx" values="658.8;692.2" dur="3.2s" begin="2.75s" repeatCount="indefinite"/><animate attributeName="cy" values="141.1;165.4" dur="3.2s" begin="2.75s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.8;1" dur="3.2s" begin="2.75s" repeatCount="indefinite"/></circle>
+    <rect x="728.6" y="217.1" width="6" height="6" fill="#ff5a3c"/>
+    <rect x="724.6" y="213.1" width="14" height="14" fill="none" stroke="#ff5a3c"/>
+    <text x="740.6" y="223.6" text-anchor="start" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10" fill="#ff5a3c" stroke="#f4f3ef" stroke-width="3" paint-order="stroke" stroke-linejoin="round">Right Hand</text>
+    <rect x="633.8" y="52.9" width="6" height="6" fill="#141412"/>
+    <text x="645.8" y="59.4" text-anchor="start" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10" fill="#3f3d38" stroke="#f4f3ef" stroke-width="3" paint-order="stroke" stroke-linejoin="round">Kubeflow MCP</text>
+    <rect x="746.0" y="62.1" width="6" height="6" fill="#141412"/>
+    <text x="758.0" y="68.6" text-anchor="start" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10" fill="#3f3d38" stroke="#f4f3ef" stroke-width="3" paint-order="stroke" stroke-linejoin="round">Kubeflow SDK</text>
+    <rect x="573.1" y="119.1" width="6" height="6" fill="#141412"/>
+    <text x="585.1" y="125.6" text-anchor="start" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10" fill="#3f3d38" stroke="#f4f3ef" stroke-width="3" paint-order="stroke" stroke-linejoin="round">Anchor</text>
+    <rect x="611.3" y="152.4" width="6" height="6" fill="#141412"/>
+    <text x="623.3" y="158.9" text-anchor="start" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10" fill="#3f3d38" stroke="#f4f3ef" stroke-width="3" paint-order="stroke" stroke-linejoin="round">Hermes-BIO</text>
+    <rect x="718.7" y="124.6" width="6" height="6" fill="#141412"/>
+    <text x="730.7" y="131.1" text-anchor="start" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10" fill="#3f3d38" stroke="#f4f3ef" stroke-width="3" paint-order="stroke" stroke-linejoin="round">RLM</text>
+    <rect x="740.5" y="96.2" width="6" height="6" fill="#141412"/>
+    <text x="752.5" y="102.7" text-anchor="start" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10" fill="#3f3d38" stroke="#f4f3ef" stroke-width="3" paint-order="stroke" stroke-linejoin="round">Review Suite</text>
+    <rect x="689.2" y="162.4" width="6" height="6" fill="#141412"/>
+    <text x="701.2" y="168.9" text-anchor="start" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10" fill="#3f3d38" stroke="#f4f3ef" stroke-width="3" paint-order="stroke" stroke-linejoin="round">Cortex</text>
+    <circle cx="671.8" cy="206.6" r="2.3" fill="#f4f3ef" stroke="#ff5a3c" stroke-width="1"/>
+    <circle cx="615.4" cy="118.6" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+    <circle cx="695.3" cy="101.2" r="2.3" fill="#f4f3ef" stroke="#ff5a3c" stroke-width="1"/>
+    <circle cx="696.6" cy="235.6" r="2.3" fill="#f4f3ef" stroke="#ff5a3c" stroke-width="1"/>
+    <circle cx="767.5" cy="236.0" r="2.3" fill="#f4f3ef" stroke="#ff5a3c" stroke-width="1"/>
+    <circle cx="722.1" cy="40.0" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+    <circle cx="560.0" cy="153.9" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+    <circle cx="751.0" cy="151.1" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+    <circle cx="674.2" cy="69.0" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+    <circle cx="613.5" cy="189.5" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+    <circle cx="658.8" cy="141.1" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+    <circle cx="780.0" cy="86.5" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+    <circle cx="654.8" cy="175.6" r="2.3" fill="#f4f3ef" stroke="#6b6862" stroke-width="1"/>
+  </g>
+</svg>

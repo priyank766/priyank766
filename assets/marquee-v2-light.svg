@@ -1,0 +1,13 @@
+<svg width="880" height="46" viewBox="0 0 880 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".08" stop-color="#fff"/><stop offset=".92" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <mask id="m"><rect width="880" height="46" fill="url(#f)"/></mask>
+  </defs>
+  <rect width="880" height="46" fill="#f4f3ef"/>
+  <path d="M0 .5H880M0 45.5H880" stroke="#dcd9d1"/>
+  <g mask="url(#m)">
+    <text y="29.5" x="0" textLength="1760" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic"><tspan fill="#3f3d38">multi-agent systems</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">MCP</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">agent memory</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">evals</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">forward deployed</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">long context</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">multi-agent systems</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">MCP</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">agent memory</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">evals</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">forward deployed</tspan><tspan fill="#ff5a3c">  ·  </tspan><tspan fill="#3f3d38">long context</tspan><tspan fill="#ff5a3c">  ·  </tspan>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-880 0" dur="28s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

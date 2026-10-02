@@ -1,0 +1,15 @@
+<svg width="880" height="96" viewBox="0 0 880 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="96" fill="#0c0c0b"/>
+  <path d="M0 95.5H880" stroke="#262522"/>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".9s" begin="0.33999999999999997s" fill="freeze"/>
+    <text x="48" y="44" font-family="Georgia, 'Times New Roman', serif" font-size="27" letter-spacing="-.5" fill="#ecebe6">RLM</text>
+    <text x="48" y="70" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#c4c2ba">Recursive Language Models, reproduced on a 6 GB laptop GPU.</text>
+    <text x="48" y="87" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10.5" fill="#8e8c84">Python · Ollama · QLoRA</text>
+  </g>
+  <rect x="48" y="52" height="1.5" width="0" fill="#ff5a3c"><animate attributeName="width" values="0;56" dur="1s" begin="0.64s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+  <g opacity="0" text-anchor="end"><animate attributeName="opacity" values="0;1" dur=".9s" begin="0.54s" fill="freeze"/>
+    <text x="832" y="48" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="30" letter-spacing="-1" fill="#ff5a3c">67%</text>
+    <text x="832" y="68" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12" fill="#8e8c84">vs 33% at 64K</text>
+    <text x="832" y="86" font-family="ui-monospace, 'SF Mono', Consolas, Menlo, monospace" font-size="10.5" fill="#ff5a3c">write-up ↗</text>
+  </g>
+</svg>
